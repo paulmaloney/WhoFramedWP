@@ -1,4 +1,6 @@
 # WhoFramedWP
 WhoFramed For WordPress
 
-Pending additional to WP repo
+A simple plugin to make iframes responsive.
+
+https://wordpress.org/plugins/whoframed
